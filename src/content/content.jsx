@@ -81,10 +81,10 @@ export const infos = {
     </div>
   ),
   obs: <span className="italic">A Definir</span>,
-  instagramProfile: "A_definir", // Sem o @
-  facebookProfile: "A_Definir",
+  instagramProfile: "gabrielmfeitoza", // Sem o @
+  facebookProfile: "bielmachadofeitoza",
   linkeDinProfile: "A_Definir",
-  x: "A_Definir",
+  x: "gabrielmfeitoza",
   whatsappDefaultMessage:
     "Olá! Vim através do site de vocês e gostaria de tirar umas dúvidas.",
   whatsChatDefaultMessage:
