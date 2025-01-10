@@ -243,8 +243,7 @@ const content = {
       card3: {
         img: featuresImg3,
         title: "Direito Penal",
-        subtitle:
-          "Experiência em inquéritos policiais, exceto casos de facções.",
+        subtitle: "Experiência em inquéritos policiais e processos criminais.",
         description: (
           <div>
             A_Definir <br />
